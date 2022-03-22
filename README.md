@@ -1,1 +1,1 @@
-<h1 align="center">Hello world, I'm <a href="http://keenan.vip">Keenan Chiasson</a> 🐱‍💻</h1>
+<h1 align="center">Hello world, I'm <a href="http://keenan.vip" target="_blank">Keenan Chiasson</a> 🐱‍💻</h1>
