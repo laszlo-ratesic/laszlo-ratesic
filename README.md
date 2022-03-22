@@ -6,5 +6,9 @@
     </samp>
     <br/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=laszlo-ratesic&show_icons=true&hide=stars&theme=codeSTACKr" alt="Keenan Chiasson's GitHub ">
+    <img src="https://raw.githubusercontent.com/laszlo-ratesic/github-stats-transparent/output/generated/overview.svg">
+    <img src="https://raw.githubusercontent.com/laszlo-ratesic/github-stats-transparent/output/generated/languages.svg">
+    <br/>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=laszlo-ratesic&show_icons=true&hide=stars&theme=codeSTACKr" alt="Keenan Chiasson's GitHub Stats">
 </p>
